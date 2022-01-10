@@ -7,7 +7,9 @@
 Bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Use python to explore data collected from bike share systems for three cities - Chicago,
+New York City, and Washington. Employs the use of NumPy and Pandas to demonstrate the
+skills learned throughout the Udacity course.
 
 ### Files used
 Include the files used
